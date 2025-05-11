@@ -1,5 +1,7 @@
 # GPT Model from Scratch
 
+#This is not the final implemention. New changes and additions are done as necessary.
+
 A PyTorch implementation of a GPT-style language model trained from scratch.
 
 ## Project Structure
